@@ -1,7 +1,7 @@
 # Joint Savings Account Smart Contract
 
 ## General Overview
-In the endeavor to revolutionize the finance industry, a fintech startup has embarked on a journey to use blockchain technology. At the heart of this initiative lies the development of a Solidity smart contract tailored for joint savings accounts. This assignment delves into the intricacies of this project, aiming to automate financial processes through the implementation of deposit and withdrawal functionalities. 
+In the endeavor to revolutionize the finance industry, a fintech startup has embarked on a journey to use blockchain technology. At the heart of this initiative lies the development of a Solidity smart contract tailored for joint savings accounts. This assignment focuses on aiming to automate financial processes through the implementation of deposit and withdrawal functionalities. 
 
 ## Objectives
 1. Develop a Solidity smart contract capable of managing joint savings accounts.
@@ -16,7 +16,6 @@ Methodology
 - Thoroughly test contract functionalities through interaction with various transaction scenarios, capturing execution results for analysis and verification.
 
 #
-
 
 # Results
 ## Deployed Contract & Account set up
